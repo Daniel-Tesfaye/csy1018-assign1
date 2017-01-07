@@ -402,16 +402,16 @@ article p{
 	height:auto;
 }
 .aboutme {
-	background:url(images/abot.jpg);
+	background:url(../images/abot.jpg);
 }
 .contactme {
-	background:url(images/contact3.jpg);
+	background:url(../images/contact3.jpg);
 }
 .cvimg {
-	background:url(images/cv.jpg);
+	background:url(../images/cv.jpg);
 }
 .bio {
-	background:url(images/dan12.jpg);
+	background:url(../images/dan12.jpg);
 }
 .shape1 {
 	width:200px;
