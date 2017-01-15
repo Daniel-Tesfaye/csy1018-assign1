@@ -11,7 +11,7 @@
 
 html {
     height: 100%;
-    box-sizing: border-box;
+
 }
 
 body {
@@ -269,15 +269,13 @@ h3 {
 .list3 {
     float: left;
     width: 80%;
-    padding-right: 10px;
-    margin-left: 10px;
     height: auto;
     font-family: 'Open Sans', verdana, helvetica, "sans-serif";
 
 }
 
 article p {
-    font-size: 1.2rem;
+    font-size: 1.2em;
 
     font-family: 'Open Sans', verdana, helvetica, "sans-serif";
     padding-left: 30px;
@@ -298,6 +296,7 @@ article p {
 .aboutme {
     background: url(../images/dan4.jpg);
     background-repeat: no-repeat;
+
     display: flex;
 }
 
