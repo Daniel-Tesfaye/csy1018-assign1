@@ -99,9 +99,6 @@ footer {
 }
 .wrap {
     width: 100%;
-    /*margin-right: auto;
-	margin-left: auto;
-	width:70%;*/
     margin: 0 auto;
 }
 
@@ -109,10 +106,8 @@ footer {
     width: 49.9%;
     height: auto;
     float: left;
-    /*background-color:#69C;*/
     background-color: #fff;
 }
-
 .rightColumn {
     width: 49.9%;
     height: auto;
@@ -131,8 +126,7 @@ footer {
 }
 
 .rightColumn p {
-    /*font-size:1.2rem;*/
-    /*font-family: 'helvetica', sans-serif;*/
+
     font-family: 'Open Sans', verdana, helvetica, "sans-serif";
     padding-left: 30px;
     padding-top: 5px;
@@ -266,6 +260,7 @@ h3 {
     width: 35%;
     height: auto;
     font-family: 'Open Sans', verdana, helvetica, "sans-serif";
+
 }
 .list3 {
     float: left;
@@ -291,9 +286,7 @@ article p {
     height: auto;
     text-indent:inherit;
     text-align: justify;
-
 }
-
 .aboutme {
     background: url(../images/dan4.jpg);
     background-repeat: no-repeat;
