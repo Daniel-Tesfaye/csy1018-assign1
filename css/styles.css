@@ -6,7 +6,8 @@
 * Jan, 2017
 * Assigment 1
 * Reference :
-
+  1. Stanford, J. (2015) Home of Joel Stanford. Available at: http://joel.sh (Accessed: 15 January 2017).
+  2.CSS3 border-bottom-right-radius property (no date) Available at: http://www.w3schools.com/cssref/css3_pr_border-bottom-right-radius.asp (Accessed: 15 January 2017).
 */
 
 html {
@@ -62,7 +63,7 @@ nav {
     cursor: pointer;
     text-transform: uppercase;
     font-size: 1.1em;
-    /*background-color: rgb(51,153,153);*/
+
 }
 
 
@@ -321,15 +322,10 @@ article p {
 .shape1 {
     width: 200px;
     height: 200px;
-    /*border-radius:90%; */
     border-bottom-left-radius: 80%;
     border-bottom-right-radius: 35%;
     margin-left: auto;
     margin-right: auto;
-    -webkit-transition: all 0.5s ease-in;
-    transition: all 0.5s ease-out;
-    /*border:14px solid #0D47A1;*/
-    -webkit-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0px 0px 30px 0;
@@ -338,15 +334,11 @@ article p {
 .shape2 {
     width: 200px;
     height: 200px;
-    /*border-radius:90%; */
+
     border-bottom-left-radius: 70%;
     border-bottom-right-radius: 120%;
     margin-left: auto;
     margin-right: auto;
-    -webkit-transition: all 0.5s ease-in;
-    transition: all 0.5s ease-out;
-    /*border:14px solid #0D47A1;*/
-    -webkit-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
     box-shadow: 0px 0px 30px 0;
